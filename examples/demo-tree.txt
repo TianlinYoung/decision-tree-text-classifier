@@ -1,0 +1,4 @@
+Feature: apple
+Threshold: 0.5
+other
+fruit
